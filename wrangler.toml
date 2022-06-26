@@ -1,0 +1,12 @@
+name = "twilio-sms-telegram-worker"
+type = "javascript"
+
+account_id = "33333333333333333333333333333333"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-06-25"
+
+[secrets]
+# - TG_CHAT_ID
+# - TG_TOKEN
